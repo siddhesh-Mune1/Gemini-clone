@@ -1,0 +1,11 @@
+.main {
+  padding: 20px;
+  flex: 1;
+  min-height: 100vh;
+  background-color: #f8f9fa;
+  transition: margin-left 0.3s ease; /* smooth animation */
+}
+
+
+
+
